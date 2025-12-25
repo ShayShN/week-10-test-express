@@ -1,12 +1,7 @@
 [
   {
     "eventName": "pestigal",
-    "ticketsAvailable": 80,
-    "createdBy": "shay"
-  },
-  {
-    "eventName": "pestigal",
-    "ticketsAvailable": 80,
+    "ticketsAvailable": 55,
     "createdBy": "shay"
   }
 ]

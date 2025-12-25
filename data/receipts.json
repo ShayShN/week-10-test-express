@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "username": "shay",
+    "eventName": "pestigal",
+    "ticketsBought": 5
+  },
+  {
+    "username": "shay",
+    "eventName": "pestigal",
+    "ticketsBought": 5
+  },
+  {
+    "username": "shay",
+    "eventName": "pestigal",
+    "ticketsBought": 5
+  },
+  {
+    "username": "shay",
+    "eventName": "pestigal1",
+    "ticketsBought": 5
+  }
+]
